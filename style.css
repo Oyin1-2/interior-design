@@ -1,0 +1,242 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.container{
+    width: 80%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+}
+.real{
+    width: 100%;
+    height: 20vh;
+    background-color: whitesmoke;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.fan{
+    width: 80%;
+    height: 20vh;
+    background-color: whitesmoke;
+  
+
+}
+.handle{
+    width: 100%;
+    height: 70vh;
+    background-color: whitesmoke;
+    display: flex; 
+    justify-content: center;
+    align-items: center;   
+}
+.blank{
+    width: 100%;
+    height: 70vh;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;  
+
+}
+.inpres{
+    width: 530px;
+    height: 490px;
+}
+.pro{
+    width: 530px;
+    height: 490px;
+    background-color: whitesmoke;
+}
+.lorem{
+    transform: translateY(25px);
+}
+.cut{
+    width: 500px;
+    height: 300px;
+    background-color: whitesmoke;
+}
+.modern{
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.tab{
+    width: 120px;
+    height: 30px;
+    margin-top: 30px;
+    border: 1px black solid;
+}
+.uni{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 220px; 
+    font-size: 3rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.uno{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; 
+    font-size: 1rem;
+}
+.fart{
+   
+      transform: translateY(-200px);
+}
+
+.class{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5000px; 
+}
+.color{
+    color: black;
+}
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+li{
+    list-style: none;
+    padding-left: 50px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.chair{
+    width: 120px;
+    height: 35px;
+    color: black;
+    background-color: transparent;
+    border: color-mix(in srgb, color percentage, color percentage) 3px black;
+}
+section{
+    width: 100%;
+    height: 90vh;
+    background-color: whitesmoke;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.div{
+    width: 80%;
+    height: 100%;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.shoe{
+    width: 500px;
+    height: 490px;
+    
+}
+.bang{
+    width: 390px;
+    height: 180px;
+    background-color: whitesmoke;
+}
+.heaven{
+    font-size: 3rem;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+.drone{
+  margin-top: 50px;
+}
+.box{
+    margin-top: 50px;
+    width: 120px;
+    height: 40px;
+    background-color: black;
+    color: white;
+}
+.brain{
+    width: 500px;
+    height: 500px;
+    object-fit: cover;
+}
+.table{
+    width: 100%;
+    height: 70vh;
+    background-color: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.tire{
+    width: 80%;
+    height: 80px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;  
+}
+.scraf{
+    width: 800px;
+    height: 500px; 
+    background-color: whitesmokew;
+}
+.main{
+    width: 800px;
+    height: 500px;
+    object-fit: cover;
+}
+.couch{
+    font-size: 4rem;
+    font-family: 'Times New Roman', Times, serif;
+}
+.screr{
+    width: 500px;
+    height: 300px; 
+    background-color: white;
+}
+.tag{
+    margin-top: 40px;
+}
+.buy{
+    width: 120px;
+    height: 30px;
+    margin-top: 40px;
+    background-color: white;
+}
+@media screen {
+    
+}
+.div{
+    width: 80%;
+    height: 100%;
+    background-color: whitesmoke;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+    
