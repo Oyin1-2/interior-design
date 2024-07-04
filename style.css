@@ -53,8 +53,9 @@ nav{
 
 }
 .inpres{
-    width: 530px;
-    height: 490px;
+    width: 100%;
+    height: 100% ;
+    
 }
 .pro{
     width: 530px;
@@ -70,7 +71,7 @@ nav{
     background-color: whitesmoke;
 }
 .modern{
-    font-size: 4rem;
+    font-size: 6rem;
     font-family: 'Times New Roman', Times, serif;
 }
 .tab{
@@ -153,7 +154,7 @@ section{
 .shoe{
     width: 500px;
     height: 490px;
-    
+    overflow: hidden;
 }
 .bang{
     width: 390px;
@@ -176,9 +177,10 @@ section{
     color: white;
 }
 .brain{
-    width: 500px;
-    height: 500px;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
+    overflow: hidden;
 }
 .table{
     width: 100%;
@@ -199,11 +201,12 @@ section{
 .scraf{
     width: 800px;
     height: 500px; 
-    background-color: whitesmokew;
+    background-color: whitesmoke;
+    overflow: hidden;
 }
 .main{
-    width: 800px;
-    height: 500px;
+    width: 100%;
+    height: 100%;
     object-fit: cover;
 }
 .couch{
