@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
 }
 nav{
     width: 100%;
@@ -32,16 +33,156 @@ nav{
     width: 80%;
     height: 20vh;
     background-color: whitesmoke;
-  
+   
+}
+.mass{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.498),rgba(0, 0, 0, 0.531)),url(pexels-mikel-1239162.jpg);
+}
+.tico{
+    font-size: 3rem;
+}
+.tac{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: linear-gradient(blue,red);
+}
+.lies{
+    color: white;
+    align-items: center;
+    margin-left: 180px;
+}
+.go{
+    width: 100%;
+    height: 60dvh;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
+}
+.weigh{
+    height: 100%;
+    width: 20%;
+    background-color:burlywood;
+}
+.cylo{
+    font-size: 2rem;
+}
+.don{
+    color: white;
+    font-weight: 700;
+}
+.cyco{
+    font-size: 2rem;
+    transform: translateY(50px);
+}
+.mac{
+    width: 150px;
+    height: 40px;
+    border-radius: 20px;
+    background-image: linear-gradient(blue,red);
+    transform: translateY(50px);
+}
+.time{
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    transform: translateY(30px);
+    width: 100%;
+    height: 80px;
+}
+header{
+    width: 100%;
+    height:100vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.498),rgba(0, 0, 0, 0.531)),url(pexels-olliecraig1-6398585.jpg);
+    background-size: cover;
+    background-position: center;
+    object-fit: cover;
 }
 .handle{
     width: 100%;
-    height: 70vh;
-    background-color: whitesmoke;
+    height: 90vh;
+    background-color: white;
     display: flex; 
     justify-content: center;
-    align-items: center;   
+    align-items: center; 
+}
+.village{
+    width: 100%;
+    height: 100%;
+    background-color: burlywood;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+}
+.spy{
+    width: 80%;
+    height: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;
+}
+.weight{
+    width: 15%;
+    height: 100%;
+    background-color: burlywood;
+}
+.enter{
+    width: 100%;
+    height: 90vh;
+    background-color: white;
+    display: flex; 
+    justify-content: center;
+    align-items: center; 
+}
+.mej{
+    background-color: white;
+    height: 100%;
+    width: 45%;
+}
+.mem{
+    background-color: white;
+    display: block;
+    height: 100%;
+    width: 45%;
+}
+.smoke{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+    height: 600px;
+    background-color: white;
+}
+.puke{
+    height: 50%;
+    width: 100%;
+    background-color: white;
+    gap: 10px;
+}
+.stu{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+.moke{
+    width: 550px;
+    height: 600px;
+    background-color: white;
+}
+.alt{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 .blank{
     width: 100%;
@@ -54,19 +195,37 @@ nav{
 }
 .inpres{
     width: 100%;
-    height: 100% ;
+    height: 100%;
     
 }
+.weight{
+    font-size: 2.5rem;
+}
 .pro{
-    width: 530px;
-    height: 490px;
-    background-color: whitesmoke;
+    width: 700px;
+    height: 400px;
+    background-color: white;
+    object-fit: cover;
 }
 .lorem{
-    transform: translateY(25px);
+    font-size: 1rem;
+}
+.mas{
+    font-size: 1.7rem;
+}
+.taco{
+  font-family: Georgia, 'Times New Roman', Times, serif;  
+  background-color: EB5B00;
+  font-size: 70px;
+}
+.teco{
+    font-size: 2rem;
+}
+.color{
+    margin-top: 30px;
 }
 .cut{
-    width: 500px;
+    width: 400px;
     height: 300px;
     background-color: whitesmoke;
 }
@@ -167,7 +326,7 @@ section{
     font-family: 'Times New Roman', Times, serif;
 }
 .drone{
-  margin-top: 50px;
+  margin-top: 50px
 }
 .box{
     margin-top: 50px;
@@ -209,6 +368,22 @@ section{
     height: 100%;
     object-fit: cover;
 }
+.yolk{
+    width: 100%;
+    height: 80vh;
+    background-color: whitesmoke;
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+.cherry{
+    width: 80%;
+    height: 70vh;
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+   align-items: center;  
+}
 .couch{
     font-size: 4rem;
     font-family: 'Times New Roman', Times, serif;
@@ -238,6 +413,12 @@ section{
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.tablet{
+    width: 120px;
+    height: 30px;
+    margin-top: 30px;
+    border: 1px black solid;
 }
 
 
