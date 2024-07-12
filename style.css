@@ -73,7 +73,7 @@ nav{
     background-color:burlywood;
 }
 .cylo{
-    font-size: 2rem;
+    font-size:  1.5rem;
 }
 .don{
     color: white;
@@ -81,21 +81,18 @@ nav{
 }
 .cyco{
     font-size: 2rem;
-    transform: translateY(50px);
 }
 .mac{
     width: 150px;
     height: 40px;
     border-radius: 20px;
     background-image: linear-gradient(blue,red);
-    transform: translateY(50px);
 }
 .time{
     background-color: burlywood;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    transform: translateY(30px);
     width: 100%;
     height: 80px;
 }
@@ -160,7 +157,7 @@ header{
     justify-content: space-between;
     align-items: center;
     width: 700px;
-    height: 600px;
+    height: 500px;
     background-color: white;
 }
 .puke{
@@ -176,8 +173,9 @@ header{
 }
 .moke{
     width: 550px;
-    height: 600px;
+    height: 500px;
     background-color: white;
+    transform: translateX(50px);
 }
 .alt{
     width: 100%;
@@ -196,13 +194,12 @@ header{
 .inpres{
     width: 100%;
     height: 100%;
-    
 }
 .weight{
-    font-size: 2.5rem;
+    font-size: 32px;
 }
 .pro{
-    width: 700px;
+    width: 500px;
     height: 400px;
     background-color: white;
     object-fit: cover;
@@ -211,12 +208,12 @@ header{
     font-size: 1rem;
 }
 .mas{
-    font-size: 1.7rem;
+    font-size: 1.3rem;
 }
 .taco{
   font-family: Georgia, 'Times New Roman', Times, serif;  
   background-color: EB5B00;
-  font-size: 70px;
+  font-size: 50px;
 }
 .teco{
     font-size: 2rem;
@@ -295,7 +292,7 @@ a{
 }
 section{
     width: 100%;
-    height: 90vh;
+    height: 100vh;
     background-color: whitesmoke;
     display: flex; 
     justify-content: center;
@@ -336,8 +333,8 @@ section{
     color: white;
 }
 .brain{
-    width: 100%;
-    height: 100%;
+    width: 500px;
+    height: 500px;
     object-fit: cover;
     overflow: hidden;
 }
@@ -351,7 +348,7 @@ section{
 }
 .tire{
     width: 80%;
-    height: 80px;
+    height: 70px;
     background-color: white;
     display: flex;
     justify-content: space-between;
@@ -359,13 +356,14 @@ section{
 }
 .scraf{
     width: 800px;
-    height: 500px; 
-    background-color: whitesmoke;
+    height: 450px; 
+    background-color: white;
     overflow: hidden;
 }
 .main{
-    width: 100%;
-    height: 100%;
+    transform: translateY(50px);
+    width: 500px;
+    height: 400px;
     object-fit: cover;
 }
 .yolk{
